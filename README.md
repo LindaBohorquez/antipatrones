@@ -90,6 +90,19 @@ Esto mejora:
 
 ---
 
+
+## 📸 Evidencia
+
+### Antes (God Object)
+<img width="1516" height="916" alt="image" src="https://github.com/user-attachments/assets/9ce83bf8-a594-467b-a4d6-9812fbd4317b" />
+
+
+### Después (Refactorizado)
+<img width="1402" height="992" alt="image" src="https://github.com/user-attachments/assets/f207e5a5-120c-4bff-85de-db1f18cd515f" />
+
+
+
+
 ## ▶️ Ejecución del proyecto
 
 ### Requisitos:
